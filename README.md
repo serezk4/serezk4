@@ -8,13 +8,6 @@ I am a Software Engineering student, second year at [ITMO University](https://it
     <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=serezk4&show_icons=true&theme=bear" width="400"></td>
     <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=serezk4&theme=dark&hide_border=true" width="400"></td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/serezk4?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serezk4&layout=compact&theme=bear" width="400">
-      </a>
-    </td>
-  </tr>
 </table>
 
 ---
