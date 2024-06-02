@@ -37,18 +37,18 @@ I am a Software Engineering student, first year at [ITMO University](https://itm
 </p>
 ---
 
-## 📊 GitHub Activity
+[//]: # ## 📊 GitHub Activity
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=serezk4&theme=vue" width="400"></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=serezk4&theme=vue" width="400"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=serezk4&theme=vue" width="400"></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=serezk4&theme=vue" width="400"></td>
-  </tr>
-</table>
+[//]: # <table align="center">
+[//]: #   <tr>
+[//]: #     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=serezk4&theme=vue" width="400"></td>
+[//]: #     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=serezk4&theme=vue" width="400"></td>
+[//]: #   </tr>
+[//]: #   <tr>
+[//]: #     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=serezk4&theme=vue" width="400"></td>
+[//]: #     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=serezk4&theme=vue" width="400"></td>
+[//]: #   </tr>
+[//]: # </table>
 
 ---
 
