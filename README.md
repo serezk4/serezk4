@@ -10,8 +10,6 @@ I am a Software Engineering student, first year at [ITMO University](https://itm
   </tr>
 </table>
 
----
-
 ## 🛠️ Technologies & Tools
 
 
