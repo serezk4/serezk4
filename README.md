@@ -1,5 +1,5 @@
 # Hi 👋 I am Sergey! 
-I am a Software Engineering student, first year at [ITMO University](https://itmo.ru/).
+I am a Software Engineering student, first second at [ITMO University](https://itmo.ru/).
 
 ---
 
