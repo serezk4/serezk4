@@ -1,6 +1,16 @@
 # Hi 👋 I am Sergey! 
 I am a Software Engineering student, second year at [ITMO University](https://itmo.ru/).
 
+💥 IMMORTAL JAVA EE & Y@ML WIZARD OF DOCKER 10M$/MILLISEC 💥
+🔥 ULTRA JAKARTA PRO M@GUS 100K$/MICROSEC 🔥
+💰 L3GEND@RY JAKARTA $Y$TEMS $MITH 200K€/MIN 💰
+🚀 Каждый деплой — как запуск ракеты
+⚡️ Микро$ерви$ы на миллиардной скорости
+💶 Собираю API, как золото
+💥 MEGA JAKARTA HYPER GOD$LAYER 1B$/TICK 💥
+💰 TRAN$CENDENT JAKARTA $UPREM€ 50K€/МИКРОТИК 💰
+💥 JAVA EE & YAML EXPERT D0$KER 300K$/MS 💥
+
 ---
 
 <table align="center">
