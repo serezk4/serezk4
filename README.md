@@ -5,10 +5,11 @@ I am a Software Engineering student, second year at [ITMO University](https://it
 
 ---
 
-<table align="center">
+<table align="center" style="border-width: 0">
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=serezk4&show_icons=true&theme=bear" width="400"></td>
-    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=serezk4&theme=dark&hide_border=true" width="400"></td>
+<!--     <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=serezk4&show_icons=true&theme=bear" width="400"></td> -->
+<!--     <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=serezk4&theme=dark&hide_border=true" width="400"></td> -->
+    <td align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=serezk4&theme=dark&hide_border=true&locale=ja" alt="GitHub Streak" /></a></td>
   </tr>
 </table>
 
