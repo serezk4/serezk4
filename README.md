@@ -13,6 +13,9 @@
   <tr>
     <td align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=serezk4&theme=dark&hide_border=true&locale=ja" alt="GitHub Streak" /></a></td>
   </tr>
+  <tr>
+    <td align="center"><img width=500 src="https://github-readme-activity-graph.vercel.app/graph?username=serezk4"></img></td>
+  </tr>
 </table>
 
 <p align="center">
